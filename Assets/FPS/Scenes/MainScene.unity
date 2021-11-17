@@ -3059,6 +3059,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
         type: 3}
+      propertyPath: MaxSpeedInAir
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
+      propertyPath: MaxSpeedOnGround
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
       propertyPath: gravityDownForce
       value: 20
       objectReference: {fileID: 0}
